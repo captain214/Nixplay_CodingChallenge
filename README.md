@@ -1,4 +1,4 @@
----Nixplay Coding Challenge---
+# ---Nixplay Coding Challenge---
 
 ## How to run tests
 
@@ -10,4 +10,4 @@ Or without npm:
 
 ```bash
 node main.js
-```#
+```
